@@ -1,2 +1,0 @@
-Each file contains the code for each attack type for CIFAR10 CNN.
-run each code to obtain the results shown in Table 3: MTA and ASR comparisons on CIFAR-10 using CNN architecture under different defense schemes.
